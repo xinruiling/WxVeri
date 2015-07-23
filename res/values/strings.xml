@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WxVeri</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_vertical">vertical</string>
+    <string name="action_horizontal">horizontal</string>
+    <string name="action_grid">grid</string>
+    <string name="action_stagger">stagger</string>
+    <string name="action_add">add</string>
+    <string name="action_remove">remove</string>
+	<string name="action_shot_screen">shot</string>
+</resources>
